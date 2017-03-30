@@ -77,6 +77,9 @@ persist.hwc.enable_vds=1
 persist.volte_enabled_by_hw=1
 persist.data.iwlan.enable=true
 
+# Media
+persist.media.treble_omx=false
+
 # NFC
 ro.nfc.port=I2C
 
