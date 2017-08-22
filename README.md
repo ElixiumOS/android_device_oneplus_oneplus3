@@ -11,6 +11,8 @@ OnePlus 3 was announced in February 2016. Release date was June 2016.
 
 OnePlus 3T was announced in November 2016. Release date was November 2016.
 
+Treee readapted for Android O by me (@mj1687)
+
 ## Device specifications
 
 | Device       | OnePlus 3                                       | OnePlus 3T                                      |
@@ -19,7 +21,7 @@ OnePlus 3T was announced in November 2016. Release date was November 2016.
 | CPU          | Dual-core 2.15GHz Kryo & dual-core 1.6GHz Kryo  | Dual-core 2.35GHz Kryo & dual-core 1.6GHz Kryo  |
 | GPU          | 624MHz Adreno 530                               | 652MHz Adreno 530                               |
 | Memory       | 6 GB RAM (LPDDR4 1866MHz dual-channel)          | 6 GB RAM (LPDDR4 1866MHz dual-channel)          |
-| Shipped Android version | 6.0                                             | 6.0                                             |
+| Shipped Android version | 7.0                                            | 7.0                                             |
 | Storage      | 64 GB (UFS 2.0 Flash)                           | 64 GB / 128GB (UFS 2.0 Flash)                   |
 | Battery      | Non-removable Li-Po 3000 mAh                    | Non-removable Li-Po 3400 mAh                    |
 | Dimensions   | 152.7 x 74.7 x 7.35 mm                          | 152.7 x 74.7 x 7.35 mm                          |
@@ -29,4 +31,4 @@ OnePlus 3T was announced in November 2016. Release date was November 2016.
 
 ## Device picture
 
-![OnePlus 3](https://content.oneplus.net/skin/frontend/oneplus2015/default/images/oneplus3/oxygenos/parameter.png "OnePlus 3 in grey")
+![OnePlus 3](https://i.gadgets360cdn.com/large/oneplus_1479275290451.jpeg "OnePlus 3T (gunmetal) and OnePlus3 (grey)")
