@@ -192,7 +192,7 @@ PRODUCT_PACKAGES += \
 # Fingerprint sensor
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service \
-    fingerprint.msm8996 \
+    fingerprint.msm8996
     OneplusPocketMode
 
 # For config.fs
